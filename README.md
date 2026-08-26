@@ -1,4 +1,4 @@
-# Smart Utility Toolkit — Lab Assignment 1
+# Smart Utility Toolkit — Lab Assignment 1 Sem-3
 
 **Course:** Web Dev III (Node.js & Express Backend)
 **Unit:** Unit–1
