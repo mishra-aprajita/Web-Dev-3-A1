@@ -1,0 +1,6 @@
+--- Simulating 5 Dice Rolls ---
+Roll 1: Dice Rolled: 1
+Roll 2: Dice Rolled: 2
+Roll 3: Dice Rolled: 5
+Roll 4: Dice Rolled: 4
+Roll 5: Dice Rolled: 1
